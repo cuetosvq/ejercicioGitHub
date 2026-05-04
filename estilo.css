@@ -1,3 +1,14 @@
 body{
   background-color: teal;
 }
+
+h1{
+  color: white;
+  border: 2px solid white;
+  padding: 8px;
+}
+
+h3{
+  font-size: 2rem;
+  color: aquamarine;
+}
